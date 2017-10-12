@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>InterruptNIOS1</name>
+	<name>InterruptsNIOS</name>
 	<comment></comment>
 	<projects>
+		<project>InterruptsNIOS_bsp</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

@@ -9,6 +9,7 @@
 #define BUTTONISR_H_
 
 #include "System.h"
+#include "sys/alt_irq.h"
 #include "alt_types.h"
 
 #ifdef ALT_ENHANCED_INTERRUPT_API_PRESENT
